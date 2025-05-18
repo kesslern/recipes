@@ -9,5 +9,3 @@
 - 1 mango
 - cilantro
 - scallions
-
-TODO: Finish this

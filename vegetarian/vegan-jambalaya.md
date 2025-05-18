@@ -1,27 +1,31 @@
 # Vegan Jambalaya
 
-- <span class="wprm-recipe-ingredient-amount">1</span> large <span class="wprm-recipe-ingredient-name">red onion, chopped</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">3-6</span> <span class="wprm-recipe-ingredient-name">cloves of garlic, minced</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-name">red bell pepper, cut into medium-sized chunks</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-name">stalks of celery, chopped</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-name">Jalapeno, habaneros, and other peppers to taste</span>
-- <span class="wprm-recipe-ingredient-amount">4</span> <span class="wprm-recipe-ingredient-name">vegan andouille sausages, roughly chopped</span> <span class="wprm-recipe-ingredient-notes wprm-recipe-ingredient-notes-faded">(Beyond sausages recommended)</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">3</span> <span class="wprm-recipe-ingredient-unit">cups</span> <span class="wprm-recipe-ingredient-name">leftover cooked parboiled rice</span> <span class="wprm-recipe-ingredient-notes wprm-recipe-ingredient-notes-faded">(=1.5 cups uncooked rice)</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">can (14 oz)</span> <span class="wprm-recipe-ingredient-name">crushed tomatoes</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">can (14 oz)</span> <span class="wprm-recipe-ingredient-name">kidney beans, drained</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-unit">teaspoons</span> <span class="wprm-recipe-ingredient-name">dried oregano</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">dried basil</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1.5</span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">Cajun seasoning</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">smoked paprika powder</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">3</span> <span class="wprm-recipe-ingredient-unit">tablespoons</span> <span class="wprm-recipe-ingredient-name">soy sauce</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">Tabasco</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-name">salt, to taste</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-name">cayenne pepper, to taste</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-name">green onions, cut into rings</span><svg height="16" version="1.1" viewbox="0 0 16 16" width="16" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"></svg>
-- <span class="wprm-recipe-ingredient-amount">1/2</span> <span class="wprm-recipe-ingredient-unit">cup</span> <span class="wprm-recipe-ingredient-name">fresh parsley, chopped</span>
+#### Ingredients
 
-1. <div>In a large pan, heat some oil and sauté the red onion for about 2-3 minutes.</div>
-2. <div>Add the garlic and cook for another minute.</div>
-3. <div>Add the bell pepper, the celery, and the vegan sausage. Cook over medium-high heat for another 5 minutes.</div>
-4. <div>Stir in the cooked rice, the kidney beans, the crushed tomatoes, the spices, the soy sauce, and the Tabasco and cook for about 5 minutes.</div>
-5. <div>Season with salt and cayenne pepper and stir in the green onions and the chopped parsley.</div>
+- 1 large red onion, chopped
+- 3–6 cloves of garlic, minced
+- 1 red bell pepper, cut into medium-sized chunks
+- 2 stalks of celery, chopped
+- Jalapeno, habaneros, and other peppers to taste
+- 4 vegan andouille sausages, roughly chopped (Beyond sausages recommended)
+- 3 cups leftover cooked parboiled rice (=1.5 cups uncooked rice)
+- 1 can (14 oz) crushed tomatoes
+- 1 can (14 oz) kidney beans, drained
+- 2 teaspoons dried oregano
+- 1 teaspoon dried basil
+- 1.5 teaspoons Cajun seasoning
+- 1 teaspoon smoked paprika powder
+- 3 tablespoons soy sauce
+- 2 teaspoons Tabasco
+- Salt, to taste
+- Cayenne pepper, to taste
+- 2 green onions, cut into rings
+- 1/2 cup fresh parsley, chopped
+
+#### Instructions
+
+1. In a large pan, heat some oil and sauté the red onion for about 2–3 minutes.
+2. Add the garlic and cook for another minute.
+3. Add the bell pepper, the celery, and the vegan sausage. Cook over medium-high heat for another 5 minutes.
+4. Stir in the cooked rice, the kidney beans, the crushed tomatoes, the spices, the soy sauce, and the Tabasco and cook for about 5 minutes.
+5. Season with salt and cayenne pepper and stir in the green onions and the chopped parsley.

@@ -18,5 +18,4 @@
 
 #### Notes
 
-To roast a head of garlic, simply cup the top off to expose tips, rub with olive oil, wrap in foil and bake for 50 minutes – 1 hour in a 400-degree F (204 C) oven directly on the rack. Cloves should squeeze out easily once cooled. Discard skins/peel.  
-\*Nutrition information is a rough estimate.
+To roast a head of garlic, simply cup the top off to expose tips, rub with olive oil, wrap in foil and bake for 50 minutes – 1 hour in a 400-degree F (204 C) oven directly on the rack. Cloves should squeeze out easily once cooled. Discard skins/peel.

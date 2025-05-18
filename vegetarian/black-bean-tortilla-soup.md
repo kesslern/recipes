@@ -3,15 +3,15 @@
 #### Ingredients
 
 - 1 large sweet onion, diced
-- <div>3 cloves garlic, minced</div>
-- <div>1 teaspoon ground cumin</div>
-- <div>2 chipotle peppers, diced</div>
-- <div>2 cans black beans (drained)</div>
+- 3 cloves garlic, minced
+- 1 teaspoon ground cumin
+- 2 chipotle peppers, diced
+- 2 cans black beans (drained)
 - 1 can pinto beans (drained)
-- <div>1 1/2 cups sweet corn</div>
-- <div>1 (28 oz.) can diced tomatoes</div>
-- <div>4 corn tortillas, chopped</div>
-- <div>1 quart vegetable stock</div>
+- 1 1/2 cups sweet corn
+- 1 (28 oz.) can diced tomatoes
+- 4 corn tortillas, chopped
+- 1 quart vegetable stock
 - 1 lime
 - 1 jalapeno
 - cilantro
